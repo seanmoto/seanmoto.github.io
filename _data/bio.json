@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sean Motogawa",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/images/molly.png",
+    "email": "seanmoto@hawaii.edu",
+    "phone": "808-738-7566",
+    "website": "https://seanmoto.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "seanmoto",
+        "url": "http://github.com/seanmoto"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "seanmotogawa",
+        "url": "https://www.linkedin.com/in/sean-motogawa-a228b5156/"
       },
       {
         "network": "twitter",
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Game Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "game design",
+        "creative design"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -64,16 +64,13 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
@@ -83,10 +80,18 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Washington, Seattle, WA",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-21",
+      "endDate": "2016-06-12",
+      "gpa": ""
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2019)",
+      "studyType": "B.S.",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
