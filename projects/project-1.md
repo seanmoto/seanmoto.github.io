@@ -13,7 +13,7 @@ labels:
 summary: A fanmade project for recreating the beginning versions of the game MapleStory.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/mgbanner.png">
+<img class="ui image" src="{{ site.baseurl }}/images/mgbanner.jpg">
 
 Released at the end of August 2017, MapleGlobal is a recreation of the first 39 versions of the original MapleStory. The modern version of MapleStory has long outgrown its original roots, but the demand and nostalgia for the early versions of many people's childhoods remain. MapleGlobal is a fanmade project created to allow many players a chance to relive their favorite verison of the game that released nearly 13 years ago, and hundreds of players have come together to experience and create a community within the game's starting point.
 
