@@ -7,19 +7,18 @@ permalink: projects/recordkeeper
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - C++
+  - Unix
+  - SCCS
 summary: A record keeper program created as a project for ICS 212.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/recordkeeperexample.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This program is a record keeper tasked during ICS 212, Summer 2017. This project taught me how to use Unix to compile my C/C++ code along with managing my files within the Unix environment using Makefiles and SCCS.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This record keeper allows users to input names and addresses associated with a unique account number. The program keeps track of added records through different sessions, and allows users to modify and delete existing records as well.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I gained experience in using C++ to code the record keeper, as well as using makefiles and SCCS within a Unix environment to help with management of the files involved in the project.
  
 
