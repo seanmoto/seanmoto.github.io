@@ -38,7 +38,7 @@ byte ADCRead(byte ch)
 ```
 
 The project is still ongoing, and I continue to script the many NPC interactions for future content in this fanmade project.
-You can learn more at the [MapleGlobal](http://maplestory.global).
+You can learn more at [MapleGlobal](http://maplestory.global).
 
 
 
