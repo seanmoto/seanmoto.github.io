@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/mapleglobalsq.jpg
 title: MapleGlobal
 permalink: projects/mapleglobal
 # All dates must be YYYY-MM-DD format!
