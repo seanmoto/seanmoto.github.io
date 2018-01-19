@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: javascript
+title: A Variety of Stress
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-18
+date: 2018-01-19
 labels:
   - Javascript
   - Learning
@@ -11,7 +11,7 @@ labels:
 
 ## The var-iety of languages and Javascript
 
-Javascript was always a language I thought to be very similar to Java but less strict with its syntax. I had a short experience with Javascript in a previous web development course, but I never knew about ES6 or any specific style guide, like using “let” and “const” instead of only using “var” that I had previously done. From what I’ve learned about Javascript so far, I would say that it still seems almost exactly like Java.
+Javascript was always a language I thought to be very similar to Java but less strict with its syntax. I had a short experience with Javascript in a previous web development course, but I never knew about ES6 or any specific style guide, like using “let” and “const” for variables. I previously only used "var" for everything, so the introduction of "let" and "const" adds a little variety to the way I code in Javascript. Though from what I’ve learned about Javascript so far, I would say that it still seems almost exactly like Java.
 
 ## One of many
 
