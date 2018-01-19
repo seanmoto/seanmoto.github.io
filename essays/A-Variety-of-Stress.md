@@ -17,7 +17,7 @@ Javascript was always a language I thought to be very similar to Java but less s
 
 For software engineering, maybe it’s because I’ve only coded in Java and C/C++ before, but I find Javascript to seem very similar to those languages, and I would consider it a fine programming language for software engineering without much experiences with other different languages like Lisp or Python. Although I lack experience with different programming languages, I would say that different types of languages can all be considered good programming languages, since they could teach different lessons with their differing syntax. Javascript is another language I'll need to learn along with many others.
 
-<img class="ui medium left floated image" src="../images/pressure.jpg">
+<img class="ui medium right floated image" src="../images/pressure.jpg">
 
 ## Stress us to test us
 
