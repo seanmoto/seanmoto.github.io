@@ -26,53 +26,54 @@ Here is some code that illustrates how NPCs are ran:
 ```c#
 public void Run(IHost mHost, Character character, byte State, byte Answer, string StringAnswer, int IntegerAnswer) 
 	{
-		string ThirdJob = character.Quests.GetQuestData(17070);
+	    string ThirdJob = character.Quests.GetQuestData(17070);
 		
-		if (State == 0)
+	    if (State == 0)
+	    {
+		PrevDialogue = 0;
+		QuestDialogue = -1;
+		string BasicText = "Can I help you?";
+		string AvailableQuests = "";
+		string InProgressQuests = "";
+		string ToBeCompletedQuests = "";
+		string ETC = "";
+			
+		if (character.PrimaryStats.Level >= 70)
 		{
-			PrevDialogue = 0;
-			QuestDialogue = -1;
-			string BasicText = "Can I help you?";
-			string AvailableQuests = "";
-			string InProgressQuests = "";
-			string ToBeCompletedQuests = "";
-			string ETC = "";
-			
-			if (character.PrimaryStats.Level >= 70)
-			{
-				if (character.PrimaryStats.Job == 110 || character.PrimaryStats.Job == 120 || character.PrimaryStats.Job == 130)
-				{
-					ETC += "\r\n#L0##bI want to make the 3rd job advancment#k#l";
-				}
-			}
-				
-				
-			if (!(AvailableQuests.Length == 0))
-			{
-				AvailableQuests = "\r\n\r\n#r#eQUEST AVAILABLE#k#n#l" + AvailableQuests;
-			}
-			
-			if (!(InProgressQuests.Length == 0))
-			{
-				InProgressQuests = "\r\n\r\n#r#eQUEST IN PROGRESS#k#n#l" + InProgressQuests;
-			}
-			
-			if (!(ToBeCompletedQuests.Length == 0))
-			{
-				ToBeCompletedQuests = "\r\n\r\n#r#eQUEST THAT CAN BE COMPLETED#k#n#l" + ToBeCompletedQuests;
-			}
-			
-			
-			if (AvailableQuests.Length == 0 && InProgressQuests.Length == 0 && ToBeCompletedQuests.Length == 0 && ETC.Length == 0)
-			{
-				mHost.SendOK(BasicText);
-				mHost.Stop();
-			}
-			else
-			{
-				mHost.AskMenu(BasicText + ToBeCompletedQuests + "\r\n" + InProgressQuests + "\r\n" + AvailableQuests + "\r\n" + ETC);
-			}
+		   if (character.PrimaryStats.Job == 110 || character.PrimaryStats.Job == 120 || character.PrimaryStats.Job == 130)
+		   {
+			ETC += "\r\n#L0##bI want to make the 3rd job advancment#k#l";
+		   }
 		}
+					
+		if (!(AvailableQuests.Length == 0))
+		{
+		   AvailableQuests = "\r\n\r\n#r#eQUEST AVAILABLE#k#n#l" + AvailableQuests;
+		}
+		
+		if (!(InProgressQuests.Length == 0))
+		{
+		   InProgressQuests = "\r\n\r\n#r#eQUEST IN PROGRESS#k#n#l" + InProgressQuests;
+		}
+			
+		if (!(ToBeCompletedQuests.Length == 0))
+		{
+		   ToBeCompletedQuests = "\r\n\r\n#r#eQUEST THAT CAN BE COMPLETED#k#n#l" + ToBeCompletedQuests;
+		}
+	
+		if (AvailableQuests.Length == 0 && InProgressQuests.Length == 0 && ToBeCompletedQuests.Length == 0 && ETC.Length == 0)
+		{
+		   mHost.SendOK(BasicText);
+		   mHost.Stop();
+		}
+		else
+		{
+		   mHost.AskMenu(BasicText + ToBeCompletedQuests + "\r\n" + InProgressQuests + "\r\n" + AvailableQuests + "\r\n" + ETC);
+		}
+	}
+...
+
+}
 ```
 
 The project is still ongoing, and I continue to script the many NPC interactions for future content in this fanmade project.
