@@ -23,3 +23,4 @@ Stepping into the world of computer science, I’d love to learn as much as I ca
 
 From here on, I hope to continue to involve myself with programming projects that will further develop my skills. I’ve only recently helped out with development for a fan-made version of an old game, but I’d like to be able to make my own with my vision. I’ve had a few attempts at trying to make something on my own, but it’s incredibly challenging to continue to motivate yourself everyday to do a project, especially when you are unsure of how to proceed. I aspire to learn more about programming, so I can return to those forgotten projects in the future and create something I’d enjoy.
 
+
