@@ -17,7 +17,7 @@ I’ve always been impressed with people creating their own programs, whether it
 
 Stepping into the world of computer science, I’d love to learn as much as I can about software engineering and the process to create a program. From the outside, I feel like there’s so much to learn to create one program, from learning the many languages and syntax to the implementation of multithreading, artificial intelligence, and smart design. I want to learn as much as I can to create a game or a useful program, and I’ll need to start taking in as much as I can because there are so many concepts in this vast landscape of computer science.
 
-<img class="ui tiny left circular floated image" src="../images/tasks.png">
+<img class="ui medium left floated image" src="../images/tasks.png">
 
 ## Learn now for the future
 
