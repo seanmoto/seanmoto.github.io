@@ -19,7 +19,7 @@ Released at the end of August 2017, MapleGlobal is a recreation of the first 39 
 
 <img class="ui image" src="{{ site.baseurl }}/images/npctalk.png">
 
-For this project, I volunteered to work alongside others who have had a dream of playing the old verison of the game we all loved. I learned to write code for the many non-player character interactions the players encounter during their adventure in Javascript and later in C# when we reworked our source code. I've learned to work with the languages C# and Javascript, as well as the repository Assembla.
+For this project, I volunteered to work alongside others who have had a dream of playing the old verison of the game we all loved. My job is to script the non-player characters in the game, so I learned to write code for the many non-player character interactions the players encounter during their adventure in Javascript and later in C# when we reworked our source code. I've learned to work with the languages C# and Javascript, as well as the repository Assembla.
 
 Here is some code that illustrates how NPCs are ran:
 
