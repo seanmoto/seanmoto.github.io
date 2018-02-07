@@ -8,4 +8,7 @@ labels:
   - Coding Standards
 ---
 
+Have you ever started coding on a project already in development to find the code unreadable? If so, this is why we try to stick to coding standards. Coding standards is something everyone should follow since code one-person writes may be viewed by another. And if that code follows coding standards, any other developer can understand what the code does instead of debating whether one if-statement is inside of another or not.
+
+Working with ESLint, it uses a different coding style than what I am used to; it enforces having opening brackets on the same line as a function or a loop, while I usually try to keep my brackets on their own line. It has been a struggle to constantly remind myself to keep the brackets on the same line to match the ESLint style since I tend to default back to the brackets on their own lines. ESLint makes it easier to see more of the code at once since lines are saved when opening brackets aren’t on their own line. However, I feel it comes with the trade off of being slightly harder to keep track of where a block of code starts and ends, but others may state that the ending bracket and ‘while’, ‘for’, or function name are enough to see it clearly. And at the same time, the ESLint style has the code scrunched up, especially when writing if-else blocks where the ending bracket of an if-statement is on the same line as the ‘else’ and it’s opening bracket. 
 
