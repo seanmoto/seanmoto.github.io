@@ -14,6 +14,8 @@ Have you ever started coding on a project already in development to find the cod
 
 ## Change is Good
 
+<img class="ui medium right floated image" src="../images/codingstyle.png">
+
 Working with ESLint, it uses a different coding style than what I am used to; it enforces having opening brackets on the same line as a function or a loop, while I usually try to keep my brackets on their own line. It has been a struggle to constantly remind myself to keep the brackets on the same line to match the ESLint style since I tend to default back to the brackets on their own lines. ESLint makes it easier to see more of the code at once since lines are saved when opening brackets aren’t on their own line. However, I feel it comes with the trade off of being slightly harder to keep track of where a block of code starts and ends, but others may state that the ending bracket and ‘while’, ‘for’, or function name are enough to see it clearly. And at the same time, the ESLint style has the code scrunched up, especially when writing if-else blocks where the ending bracket of an if-statement is on the same line as the ‘else’ and it’s opening bracket. Nonetheless, I'm fine with using a different type of coding style from what I'm used to doing because other people won't always be using the same style I prefer using.
 
 ## Code how you want (except if it's unreadable)
