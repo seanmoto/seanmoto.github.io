@@ -10,7 +10,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui medium right floated image" src="../images/semanticuivscss.png">
+<img class="ui left floated image" src="../images/semanticuivscss.png">
 
 ## It's basically the same thing
 
