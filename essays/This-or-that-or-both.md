@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: This or That - Why not both?
+title: This or That or Both
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
