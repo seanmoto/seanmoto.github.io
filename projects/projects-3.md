@@ -7,8 +7,8 @@ permalink: projects/studyhall
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-04
 labels:
-  - 
-  - 
+  - Meteor
+  - Software Engineering
 summary: Final project web application for Software Engineering course that wants to help students find tutors to host review sessions during non-office hours for any class.
 ---
 
