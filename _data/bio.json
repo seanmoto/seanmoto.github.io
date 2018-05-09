@@ -62,7 +62,8 @@
       "level": "",
       "keywords": [
         "Git/GitHub",
-        "g++"
+        "g++",
+        "Unix"
       ]
     }
   ],
@@ -102,10 +103,9 @@
   "volunteer": [
     {
       "organization": "MapleGlobal",
-      "website": "http://maplestory.global",
       "position": "Developer",
       "startDate": "2017-01-12",
-      "endDate": "Present",
+      "endDate": "2018-02-15",
       "summary": "Developer for non-player character dialogues and quests",
       "highlights": [
         "Ensure quality of dialogue and quests given through NPCs",
