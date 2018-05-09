@@ -15,7 +15,7 @@ summary: A fanmade project for recreating the beginning versions of the game Map
 
 <img class="ui image" src="{{ site.baseurl }}/images/mgbanner.jpg">
 
-Released at the end of August 2017, MapleGlobal is a recreation of the first 39 versions of the original MapleStory. The modern version of MapleStory has long outgrown its original roots, but the demand and nostalgia for the early versions of many people's childhoods remain. MapleGlobal is a fanmade project created to allow many players a chance to relive their favorite verison of the game that released nearly 13 years ago, and hundreds of players have come together to experience and create a community within the game's starting point.
+Released at the end of August 2017, MapleGlobal is a fanmade recreation of the first 39 versions of the original MapleStory. The modern version of MapleStory has long outgrown its original roots, but the demand and nostalgia for the early versions of many people's childhoods remain. MapleGlobal is a fanmade project created to allow many players a chance to relive their favorite verison of the game that released nearly 13 years ago, and hundreds of players have come together to experience and create a community within the game's starting point.
 
 <img class="ui image" src="{{ site.baseurl }}/images/npctalk.png">
 
@@ -76,8 +76,7 @@ public void Run(IHost mHost, Character character, byte State, byte Answer, strin
 }
 ```
 
-The project is still ongoing, and I continue to script the many NPC interactions for future content in this fanmade project.
-You can learn more at [MapleGlobal](http://maplestory.global).
+The fanmade project MapleGlobal discontinued during January of 2018. We had upwards of 400 players online concurrently during our peak hours. It was a great experience learning and working together with other developers with the passion of recreating a fanmade version of Maplestory.
 
 
 
