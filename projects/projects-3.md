@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mapleglobalsq.jpg
+image: images/studyhallsq.png
 title: Study Hall
 permalink: projects/studyhall
 # All dates must be YYYY-MM-DD format!
