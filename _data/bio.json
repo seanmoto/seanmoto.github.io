@@ -74,7 +74,7 @@
       "studyType": "B.S.",
       "startDate": "2014-09-21",
       "endDate": "2016-06-12",
-      "gpa": "3.74"
+      "gpa": ""
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -82,7 +82,7 @@
       "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.74",
       "courses": [
       ]
     }
